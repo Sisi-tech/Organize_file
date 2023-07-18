@@ -1,0 +1,3 @@
+os.scandir() function is Python is used to iterate over a directory 
+and retrieve informaton about its contents.
+
